@@ -14,10 +14,10 @@ and provides tenants with dashboards to view and manage their tenancy.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Veenbreeze/abode-harmony-83.git
+   git clone https://github.com/allan818181/property-management-system.git
 Navigate to the project folder:
 
-cd abode-harmony-83
+cd property-management-system
 
 
 Install dependencies:
